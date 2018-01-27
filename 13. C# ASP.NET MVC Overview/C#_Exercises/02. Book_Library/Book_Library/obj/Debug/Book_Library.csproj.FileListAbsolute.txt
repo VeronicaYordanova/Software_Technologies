@@ -1,0 +1,118 @@
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Book_Library.dll.config
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Book_Library.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Book_Library.pdb
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Antlr3.Runtime.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\EntityFramework.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\EntityFramework.SqlServer.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AI.Agent.Intercept.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.ApplicationInsights.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Google.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Web.Infrastructure.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Newtonsoft.Json.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Owin.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Helpers.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Mvc.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Optimization.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Razor.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.Deployment.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.Razor.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\WebGrease.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Helpers.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Mvc.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Optimization.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.Razor.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.Deployment.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\System.Web.WebPages.Razor.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Antlr3.Runtime.pdb
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Newtonsoft.Json.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\EntityFramework.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\EntityFramework.SqlServer.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Google.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\bin\Microsoft.ApplicationInsights.xml
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\obj\Debug\Book_Library.csproj.CoreCompileInputs.cache
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\obj\Debug\Book_Library.dll
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\obj\Debug\Book_Library.pdb
+D:\SoftUni\Software_Technologies\13. C# ASP.NET MVC Overview\C# ASP.NET MVC Overview - Exercises\02. Book_Library\Book_Library\Book_Library\obj\Debug\Book_Library.csprojResolveAssemblyReference.cache
+D:\Book_Library\Book_Library\bin\Book_Library.dll.config
+D:\Book_Library\Book_Library\bin\Book_Library.dll
+D:\Book_Library\Book_Library\bin\Book_Library.pdb
+D:\Book_Library\Book_Library\bin\Antlr3.Runtime.dll
+D:\Book_Library\Book_Library\bin\EntityFramework.dll
+D:\Book_Library\Book_Library\bin\EntityFramework.SqlServer.dll
+D:\Book_Library\Book_Library\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Book_Library\Book_Library\bin\Microsoft.ApplicationInsights.dll
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Google.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Book_Library\Book_Library\bin\Microsoft.Web.Infrastructure.dll
+D:\Book_Library\Book_Library\bin\Newtonsoft.Json.dll
+D:\Book_Library\Book_Library\bin\Owin.dll
+D:\Book_Library\Book_Library\bin\System.Web.Helpers.dll
+D:\Book_Library\Book_Library\bin\System.Web.Mvc.dll
+D:\Book_Library\Book_Library\bin\System.Web.Optimization.dll
+D:\Book_Library\Book_Library\bin\System.Web.Razor.dll
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.Deployment.dll
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.dll
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.Razor.dll
+D:\Book_Library\Book_Library\bin\WebGrease.dll
+D:\Book_Library\Book_Library\bin\System.Web.Helpers.xml
+D:\Book_Library\Book_Library\bin\System.Web.Mvc.xml
+D:\Book_Library\Book_Library\bin\System.Web.Optimization.xml
+D:\Book_Library\Book_Library\bin\System.Web.Razor.xml
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.xml
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.Deployment.xml
+D:\Book_Library\Book_Library\bin\System.Web.WebPages.Razor.xml
+D:\Book_Library\Book_Library\bin\Antlr3.Runtime.pdb
+D:\Book_Library\Book_Library\bin\Newtonsoft.Json.xml
+D:\Book_Library\Book_Library\bin\EntityFramework.xml
+D:\Book_Library\Book_Library\bin\EntityFramework.SqlServer.xml
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Book_Library\Book_Library\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Google.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Book_Library\Book_Library\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Book_Library\Book_Library\bin\Microsoft.ApplicationInsights.xml
+D:\Book_Library\Book_Library\obj\Debug\Book_Library.csprojResolveAssemblyReference.cache
+D:\Book_Library\Book_Library\obj\Debug\Book_Library.csproj.CoreCompileInputs.cache
+D:\Book_Library\Book_Library\obj\Debug\Book_Library.dll
+D:\Book_Library\Book_Library\obj\Debug\Book_Library.pdb
